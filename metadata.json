@@ -1,0 +1,6 @@
+{
+  "name": "IMA-GEN",
+  "description": "Generate new images of a person in different settings using reference photos and descriptive prompts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
